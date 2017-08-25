@@ -5,11 +5,11 @@ This document provides and introduction to Spark, and a hands on pySpark program
 
 Tutorial: 
 - SparkIntro ([Google Doc](https://docs.google.com/document/d/1z-clf2fWfvIf1CGfwapIs7NzXQBBbjUzpqoS_8UuyZY/edit?usp=sharing)) 
-- SparkIntro ([pdf](SparkIntro.pdf)) 
+- SparkIntro ([pdf](SparkTutorial/SparkIntro.pdf)) 
 
-[Notebooks](notebooks)
+[Notebooks](SparkTutorial/notebooks)
 
-[Data](data)
+[Data](SparkTutorial/data)
  
 References:
 
