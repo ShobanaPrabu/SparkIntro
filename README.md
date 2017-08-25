@@ -1,4 +1,7 @@
 # SparkIntro
+
+Jay Urbain
+
 Apache Spark is an open-source, distributed processing system commonly used for big data workloads. Apache Spark utilizes in-memory caching and optimized execution for fast performance, and it supports general batch processing, streaming analytics, machine learning, graph databases, and ad hoc queries. 
 
 This document provides and introduction to Spark, and a hands on pySpark programming tutorial through a series of Jupyter Notebooks executed on the Databricks hosted computing environment. Covers Spark core, Spark SQL, Spark Streaming, and Spark MLib.
